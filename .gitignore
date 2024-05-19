@@ -1,0 +1,32 @@
+# Python 
+*.pyc
+__pycache__/
+*$py.class
+
+# C extensions
+*.so
+
+# Enviroments
+env/
+venv/
+
+# Dependencies
+.env/
+.venv/
+
+# Libraries
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+.coverage
+.tox/
+
+# IDEs
+.vscode/
+.idea/
+*.vscore/
+*.idea/
+
+# OS
+.DS_Store
+Thumbs.db
