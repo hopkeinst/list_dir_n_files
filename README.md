@@ -41,7 +41,7 @@ Al hacerlo, se obtiene una realimentación de la información ingresada y comien
 
 - El árbol jerárquico o hereditario. Se puede ver o seguir las líneas para ver de dónde proviene cada archivo o directorio.
 
-![Tree 01](igms/02.png)
+![Tree 01](imgs/02.png)
 
 Se puede observar que cuando no hay relación con niveles superiores, no hay líneas que unan estos archivos o directorios, solo lo unen a su padre inmediato.
 
