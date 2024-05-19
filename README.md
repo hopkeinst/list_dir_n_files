@@ -53,7 +53,7 @@ Esta forma de visualización facilita la ubicación de los archivos y directorio
 
 Y siempre mostrando el tamaño de cada uno, tanto de los archivos, como por ejemplo `version.cpython-312.pyc` que tiene un peso de `3.956 KB`; así como también de los directorios, como por ejemplo `__pycache__` que todo su contenido tiene un peso de `348.556 KB`.
 
-La finalización del árbol, así como los intermedios en que un archivo o carpeta finaliza esa rama, permite tener un ángulo especial `└` que indica el fin de esa rama.
+- La finalización del árbol, así como los intermedios en que un archivo o carpeta finaliza esa rama, permite tener un ángulo especial `└` que indica el fin de esa rama.
 
 ![Tree 04](imgs/05.png)
 
@@ -63,7 +63,7 @@ Y al finalizar todo, se muestran los datos del total de archivos y directorios.
 
 También muestra el nombre del archivo al que se exporta la información.
 
-Un buen ejemplo del archivo exportado está aquí en [details_filesNdir](details_filesNdir.txt) _(tiene muchas línes intermedias eliminadas para no mostrar datos sensibles ni hacer tedioso su comprensión, en la mitad encontrará un área en blanco con puntos suspensivos, es esa área de datos eliminados)_.
+- Un buen ejemplo del archivo exportado está aquí en [details_filesNdir](details_filesNdir.txt) _(tiene muchas línes intermedias eliminadas para no mostrar datos sensibles ni hacer tedioso su comprensión, en la mitad encontrará un área en blanco con puntos suspensivos, es esa área de datos eliminados)_.
 
 ----
 
